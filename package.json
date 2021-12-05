@@ -1,0 +1,17 @@
+{
+  "name": "astro-icon-issue-1-example",
+  "version": "1.0.0",
+  "description": "An isolated example of an issue i'm seeing with astro-icon",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "astro": "0.21.10",
+    "astro-icon": "0.2.1"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  }
+}
