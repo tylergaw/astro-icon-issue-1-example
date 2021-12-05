@@ -2,10 +2,12 @@ An isolated issue using I'm running into trying out [astro-icon](https://github.
 
 ## Steps to reproduce
 
-Close this repo
+I've tried this with node `14.6.0` and `16.9.1` with the same results.
+
+Clone this repo
 
 ```
-git clone
+git clone git@github.com:tylergaw/astro-icon-issue-1-example.git
 cd astro-icon-issue-1-example
 ```
 
