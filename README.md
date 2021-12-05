@@ -1,5 +1,7 @@
 An isolated issue using I'm running into trying out [astro-icon](https://github.com/natemoo-re/astro-icon)
 
+Issue: https://github.com/natemoo-re/astro-icon/issues/2
+
 ## Steps to reproduce
 
 I've tried this with node `14.6.0` and `16.9.1` with the same results.
